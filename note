@@ -1,0 +1,55 @@
+******python********
+extension--> .py
+for terminal ctrl+`
+type python.file name for output
+shift + ctrl + M--> error problem show
+shift+ctrl+p -->pylint(linter is a tool for synta or grammatical error)
+1. app.py
+
+anything inside print will show in terminal
+("" * number) will show the text as many time you want
+
+==>veriable should be keep a space between value 
+for pep8 shift+ctrl+p search format document(formatonsave)-->auto formating
+
+shift+ctrl+p keyboard shotcut-->run python file-->set anything to run your file
+
+******variable*****
+no need to type
+it can be number,string, boolean
+it is case sencetive like it's false not false
+
+we can use "" or """ for string
+for length of a string use len() function
+
+print(string_var[0]) this will give first inde value
+print(string_var[-1])this will give the last inde value
+
+print(string_var[0:3]) first 3 string(0 1 2 '3 is not included')
+print(string_var[0:]) not error it will give all the string
+print(string_var[:3])first 3 string
+print(string_var[:]) full string
+
+8*********scape character****
+\'
+\"
+\\
+\n-->new line
+
+# method
+.uppor() .lower() 
+.title() uppercase only the first alphabet
+.strip() remove the white space from first and last
+.rstrip()
+.find("anything you want to find")
+.replace("what you want to change","with what you change")
+print("or in variable name")--> it find the given str in var but return boolean value
+print("any str" not in variable name)
+
+****aithmatic***
++ - / * %
+// --> only purno songkha
+** -->power
+
+*****search python 3 math module********
+round(2.9)

@@ -1,0 +1,9 @@
+# ********input from user*****
+# input("x:")
+# this input type is str {type()}
+
+# for type conversion-->
+# int(x), float(x),str(x),bool(x)
+
+# ****falsy***
+# "" or 0 or none -->anything else is true
