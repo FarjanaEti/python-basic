@@ -37,3 +37,10 @@ list3.clear()
 del list3
 # clear() delete all item return [] del delete all
 print(list1)
+
+# *******loop list******
+for frutes in list1:
+    print(frutes)
+
+    for i in range(len(list1)):
+        print(list1[i], i)
