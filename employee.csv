@@ -1,0 +1,31 @@
+id,name,department,age,salary,experience_years
+1,John Doe,Engineering,29,75000,5
+2,Jane Smith,Marketing,34,,10
+3,Bob Johnson,HR,41,58000,15
+4,Alice Brown,Engineering,,81000,7
+5,Charlie White,Marketing,25,49000,2
+6,Emily Davis,Finance,30,67000,
+7,Michael Miller,Engineering,38,87000,12
+8,Nancy Wilson,NaN,45,,20
+9,Karen Taylor,Finance,,62000,6
+10,James Anderson,Marketing,27,51000,3
+11,NaN,HR,39,60000,
+12,Robert Jackson,Engineering,31,79000,8
+13,Linda Martinez,Finance,33,71000,10
+14,David Lee,Marketing,36,55000,6
+15,Barbara Perez,HR,,56000,9
+16,Paul Thompson,Engineering,28,,4
+17,Jennifer Clark,Finance,29,68000,7
+18,George Rodriguez,HR,44,,18
+19,Laura Lewis,Engineering,35,80000,11
+20,Daniel Hall,Marketing,,54000,NaN
+21,Jessica Allen,Finance,32,69000,8
+22,Mark Young,Engineering,30,82000,9
+23,Mary Hernandez,HR,40,59000,13
+24,Steven King,Marketing,37,56000,
+25,Patricia Wright,Finance,34,73000,11
+26,Charles Lopez,Engineering,29,,5
+27,Sandra Hill,HR,42,61000,17
+28,Thomas Scott,NaN,26,50000,2
+29,Betty Green,Finance,NaN,6
+30,Donald Adams,Engineering,33,85000,10
